@@ -2,8 +2,8 @@
 - 🔭 Atualmente estagiando no Tribunal de Contas da União-(TCU).
 <div align="center">
   <a href="https://github.com/TalesRG">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TalesRG&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesRG&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TalesRG&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesRG&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
