@@ -21,4 +21,3 @@
   <img align="center" alt="jetbrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalesRG&langs_count=8)
